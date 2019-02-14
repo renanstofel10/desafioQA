@@ -5,7 +5,7 @@ Verificar suas habilidades em elaborar cenários de testes e em programação ne
 
 # Desafio 1
 
-Criar um projeto de automação versionado no Github (https://github.com/), utilizando BDD e em linguagem de programação de sua preferencia os cenários para as duas funcionalidades abaixo:
+Criar um projeto de automação utilizando BDD e em linguagem de programação de sua preferencia os cenários para as duas funcionalidades abaixo:
 
 
 1 - No site https://www.unimed.coop.br/ validar a seguinte sequência de ações:
@@ -29,7 +29,7 @@ Criar um projeto de automação versionado no Github (https://github.com/), util
  
 # Desafio 2
 
-Criar um projeto de automação versionado no Github (https://github.com/), para automatizar API utilizando framework de sua preferencia os cenários para as duas funcionalidades abaixo:
+Criar um projeto de automação para API utilizando framework de sua preferencia os cenários para as duas funcionalidades abaixo:
 
 EndPoint
 http://www.omdbapi.com/?i=[ID_DO_FILME]&apikey=[API_KEY]
