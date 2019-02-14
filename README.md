@@ -52,24 +52,6 @@ Parametros
  *   Busca filme inexistente
 
 
-### Processo de submissão
-
-O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
-
-*O processo de Pull Request funciona da seguinte maneira:**
-
-* Candidato fará um fork desse repositório (não irá clonar direto!)
-* Fará seu projeto nesse fork.
-* Commitará e subirá as alterações para o SEU fork.
-* Irá enviar um Pull Request para este repositório.
-
-### ATENÇÃO
-* Não se deve tentar fazer o PUSH diretamente para ESTE repositório!!!
-
-### HOW TO RUN
-* Descreva aqui os passos necessários para executar a automação.
-
-####################################
 # Desafio 3
 
 **Desenvolva uma solução em Ruby para atender aos critérios da história abaixo, usando TDD:**
@@ -93,5 +75,22 @@ Regras
 * Criar somente uma classe
 * Carrinho será um array de int com ids dos filmes
 * Passar sempre valor da compra + id do filme
+
+### Processo de submissão
+
+O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
+
+*O processo de Pull Request funciona da seguinte maneira:**
+
+* Candidato fará um fork desse repositório (não irá clonar direto!)
+* Fará seu projeto nesse fork.
+* Commitará e subirá as alterações para o SEU fork.
+* Irá enviar um Pull Request para este repositório.
+
+### ATENÇÃO
+* Não se deve tentar fazer o PUSH diretamente para ESTE repositório!!!
+
+### HOW TO RUN
+* Descreva aqui os passos necessários para executar a automação.
 
 
