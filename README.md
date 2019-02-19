@@ -54,7 +54,7 @@ Parametros
 
 # Desafio 3
 
-**Desenvolva uma solução em Ruby para atender aos critérios da história abaixo, usando TDD:**
+**Desenvolva uma solução em linguagem de programação de sua preferencia para atender aos critérios da história abaixo, usando TDD:**
 
 **Como** lojista
 
