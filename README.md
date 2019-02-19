@@ -78,7 +78,7 @@ Regras
 
 ### Processo de submissão
 
-O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
+O candidato deverá implementar a solução para os 3 desafios e enviar um pull request para este repositório com a solução.
 
 *O processo de Pull Request funciona da seguinte maneira:**
 
