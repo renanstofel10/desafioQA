@@ -91,6 +91,72 @@ O candidato deverá implementar a solução para os 3 desafios e enviar um pull 
 * Não se deve tentar fazer o PUSH diretamente para ESTE repositório!!!
 
 ### HOW TO RUN
-* Descreva aqui os passos necessários para executar a automação.
+**Desafio 1:**
+**Pré-Requisitos:** 
+1. Realizar download e instalação do Eclipse e JDK disponível nos sites:
+https://www.eclipse.org/downloads/
+https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+
+2. Instalar o plugin do Cucumber no Eclipse conforme abaixo:
+https://www.toolsqa.com/cucumber/install-cucumber-eclipse-plugin/
+
+3. Importando projeto JAVA no Eclipse:
+3.1. Clique em "File > Import";
+3.2. Selecione "General > Projects from Folder or Archive", em seguida clique em Next;
+3.3. Clique em Directory;
+3.4. Selecione o local do projeto e clique em "OK";
+3.4. Clique em Finish.
+
+**Execução:**
+No diretório "src > Runner", clicar com botão direito na classe TestRunner.java e selecionar "Run As > 1 JUnit Test".
+
+* No arquivo TestRunner.java contém as configurações de execução que estão parametrizadas por tags, leia mais no site abaixo: 
+"https://www.toolsqa.com/cucumber/cucumber-tags/"
 
 
+
+**Desafio 2:**
+**Pré-Requisitos:** Configurar o Nodejs em sua máquina conforme passo a passo descrito no endereço:
+https://nodejs.org/en/download/package-manager/
+
+**Obs.:** Para verificar a instalação e versão instalada, execute o  comando abaixo no teminal:
+$ node --version 
+
+**Execução:**
+*Passo 1:*
+Abra o terminal de sua preferência.
+
+*Passo 2:*
+Navegue até o diretório do projeto.
+Ex.: $ cd Documents/project_name
+
+*Passo 3:*
+Adicionar as dependências que serão utilizadas no projet:
+$ npm install --global mocha
+$ npm install supertest
+$ npm install joi
+$ npm install joi-assert
+
+**Obs.:** Note que foi adicionado a pasta "node_modules" no diretório de seu projeto.
+
+*Passo 4:*
+Por fim, execute o comando abaixo para executar os testes:
+$ mocha nome_arquivo.js
+
+
+
+**Desafio 3:**
+**Pré-Requisitos:** Configurar o Ruby em sua máquina conforme passo a passo descrito no endereço:
+https://www.ruby-lang.org/pt/documentation/installation/
+
+**Execução:**
+*Passo 1:*
+Abra o terminal de sua preferência.
+
+*Passo 2:*
+Navegue até o diretório do projeto.
+Ex.: $ cd Documents/Project
+
+*Passo 3:*
+Por fim, execute o comando abaixo para executar os testes:
+$ruby nome_arquivo.rb
